@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Dev\3 Object movement\main.cpp(24,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\3 Object movement\main.cpp(27,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 9 functions (44.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3 Object movement.vcxproj -> C:\Dev\3 Object movement\x64\Release\3 Object movement.exe
